@@ -1,0 +1,1692 @@
+This run was NOT judged (i.e., it did not contribute
+documents to the assessment pools).
+
+
+Queryid (Num):       401  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       300
+    Rel_ret:         34
+Interpolated Recall - Precision Averages:
+    at 0.00       0.2000 
+    at 0.10       0.0411 
+    at 0.20       0.0000 
+    at 0.30       0.0000 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0053 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.1000
+  At   15 docs:   0.0667
+  At   20 docs:   0.1000
+  At   30 docs:   0.0667
+  At  100 docs:   0.0400
+  At  200 docs:   0.0400
+  At  500 docs:   0.0320
+  At 1000 docs:   0.0340
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0400
+
+Queryid (Num):       402  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        80
+    Rel_ret:         70
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.4762 
+    at 0.20       0.3396 
+    at 0.30       0.2551 
+    at 0.40       0.2112 
+    at 0.50       0.1688 
+    at 0.60       0.1308 
+    at 0.70       0.1194 
+    at 0.80       0.0994 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2308 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.5000
+  At   15 docs:   0.4667
+  At   20 docs:   0.4500
+  At   30 docs:   0.4000
+  At  100 docs:   0.2500
+  At  200 docs:   0.1950
+  At  500 docs:   0.1160
+  At 1000 docs:   0.0700
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2625
+
+Queryid (Num):       403  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        21
+    Rel_ret:         21
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       1.0000 
+    at 0.30       1.0000 
+    at 0.40       1.0000 
+    at 0.50       1.0000 
+    at 0.60       1.0000 
+    at 0.70       1.0000 
+    at 0.80       0.9444 
+    at 0.90       0.5405 
+    at 1.00       0.3387 
+Average precision (non-interpolated) over all rel docs
+                  0.9045 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   1.0000
+  At   15 docs:   1.0000
+  At   20 docs:   0.8500
+  At   30 docs:   0.6000
+  At  100 docs:   0.2100
+  At  200 docs:   0.1050
+  At  500 docs:   0.0420
+  At 1000 docs:   0.0210
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.8095
+
+Queryid (Num):       404  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       142
+    Rel_ret:        128
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.2636 
+    at 0.20       0.2636 
+    at 0.30       0.2629 
+    at 0.40       0.2419 
+    at 0.50       0.2254 
+    at 0.60       0.1909 
+    at 0.70       0.1883 
+    at 0.80       0.1567 
+    at 0.90       0.1342 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2130 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.3000
+  At   15 docs:   0.3333
+  At   20 docs:   0.3500
+  At   30 docs:   0.3667
+  At  100 docs:   0.2300
+  At  200 docs:   0.2450
+  At  500 docs:   0.1880
+  At 1000 docs:   0.1280
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2535
+
+Queryid (Num):       405  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        38
+    Rel_ret:         32
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       0.4091 
+    at 0.30       0.3636 
+    at 0.40       0.3200 
+    at 0.50       0.2247 
+    at 0.60       0.1875 
+    at 0.70       0.0915 
+    at 0.80       0.0327 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2790 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.5000
+  At   15 docs:   0.4000
+  At   20 docs:   0.3500
+  At   30 docs:   0.3667
+  At  100 docs:   0.2000
+  At  200 docs:   0.1250
+  At  500 docs:   0.0540
+  At 1000 docs:   0.0320
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3421
+
+Queryid (Num):       406  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        13
+    Rel_ret:         13
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.6667 
+    at 0.20       0.6250 
+    at 0.30       0.6250 
+    at 0.40       0.6000 
+    at 0.50       0.5000 
+    at 0.60       0.3810 
+    at 0.70       0.2200 
+    at 0.80       0.2200 
+    at 0.90       0.2105 
+    at 1.00       0.0657 
+Average precision (non-interpolated) over all rel docs
+                  0.4519 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.6000
+  At   15 docs:   0.4667
+  At   20 docs:   0.3500
+  At   30 docs:   0.3000
+  At  100 docs:   0.1200
+  At  200 docs:   0.0650
+  At  500 docs:   0.0260
+  At 1000 docs:   0.0130
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4615
+
+Queryid (Num):       407  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        68
+    Rel_ret:         59
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       0.7368 
+    at 0.30       0.6364 
+    at 0.40       0.5385 
+    at 0.50       0.4146 
+    at 0.60       0.2316 
+    at 0.70       0.1935 
+    at 0.80       0.1436 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.4335 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   1.0000
+  At   15 docs:   0.7333
+  At   20 docs:   0.7000
+  At   30 docs:   0.6000
+  At  100 docs:   0.3600
+  At  200 docs:   0.2100
+  At  500 docs:   0.1160
+  At 1000 docs:   0.0590
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4559
+
+Queryid (Num):       408  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       118
+    Rel_ret:         79
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.4828 
+    at 0.20       0.4828 
+    at 0.30       0.4805 
+    at 0.40       0.4320 
+    at 0.50       0.3797 
+    at 0.60       0.1839 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2715 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.4000
+  At   15 docs:   0.3333
+  At   20 docs:   0.3000
+  At   30 docs:   0.4667
+  At  100 docs:   0.4400
+  At  200 docs:   0.3150
+  At  500 docs:   0.1520
+  At 1000 docs:   0.0790
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4237
+
+Queryid (Num):       409  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        22
+    Rel_ret:         20
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.3333 
+    at 0.20       0.1923 
+    at 0.30       0.1311 
+    at 0.40       0.1124 
+    at 0.50       0.0964 
+    at 0.60       0.0964 
+    at 0.70       0.0964 
+    at 0.80       0.0655 
+    at 0.90       0.0211 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1596 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.2000
+  At   15 docs:   0.2667
+  At   20 docs:   0.2000
+  At   30 docs:   0.1667
+  At  100 docs:   0.1000
+  At  200 docs:   0.0800
+  At  500 docs:   0.0380
+  At 1000 docs:   0.0200
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1818
+
+Queryid (Num):       410  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        65
+    Rel_ret:         65
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       1.0000 
+    at 0.30       1.0000 
+    at 0.40       0.9722 
+    at 0.50       0.9722 
+    at 0.60       0.9286 
+    at 0.70       0.8929 
+    at 0.80       0.8814 
+    at 0.90       0.7595 
+    at 1.00       0.1217 
+Average precision (non-interpolated) over all rel docs
+                  0.9087 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   1.0000
+  At   15 docs:   1.0000
+  At   20 docs:   1.0000
+  At   30 docs:   0.9667
+  At  100 docs:   0.6300
+  At  200 docs:   0.3200
+  At  500 docs:   0.1280
+  At 1000 docs:   0.0650
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.8154
+
+Queryid (Num):       411  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        27
+    Rel_ret:         20
+Interpolated Recall - Precision Averages:
+    at 0.00       0.6667 
+    at 0.10       0.3750 
+    at 0.20       0.2759 
+    at 0.30       0.2571 
+    at 0.40       0.2075 
+    at 0.50       0.1077 
+    at 0.60       0.0462 
+    at 0.70       0.0451 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1587 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.3000
+  At   15 docs:   0.2667
+  At   20 docs:   0.2500
+  At   30 docs:   0.2667
+  At  100 docs:   0.1200
+  At  200 docs:   0.0750
+  At  500 docs:   0.0400
+  At 1000 docs:   0.0200
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2593
+
+Queryid (Num):       412  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       123
+    Rel_ret:         50
+Interpolated Recall - Precision Averages:
+    at 0.00       0.0665 
+    at 0.10       0.0665 
+    at 0.20       0.0665 
+    at 0.30       0.0626 
+    at 0.40       0.0511 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0214 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0000
+  At   20 docs:   0.0000
+  At   30 docs:   0.0000
+  At  100 docs:   0.0200
+  At  200 docs:   0.0400
+  At  500 docs:   0.0640
+  At 1000 docs:   0.0500
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0244
+
+Queryid (Num):       413  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        69
+    Rel_ret:         60
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       1.0000 
+    at 0.30       0.7000 
+    at 0.40       0.6087 
+    at 0.50       0.2535 
+    at 0.60       0.2320 
+    at 0.70       0.1293 
+    at 0.80       0.0967 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.4435 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   1.0000
+  At   15 docs:   0.9333
+  At   20 docs:   0.8500
+  At   30 docs:   0.7000
+  At  100 docs:   0.3400
+  At  200 docs:   0.2150
+  At  500 docs:   0.1060
+  At 1000 docs:   0.0600
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4058
+
+Queryid (Num):       414  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        39
+    Rel_ret:         36
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.5000 
+    at 0.20       0.3750 
+    at 0.30       0.3281 
+    at 0.40       0.3281 
+    at 0.50       0.3281 
+    at 0.60       0.2376 
+    at 0.70       0.1818 
+    at 0.80       0.1236 
+    at 0.90       0.0641 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2768 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.4000
+  At   15 docs:   0.3333
+  At   20 docs:   0.3500
+  At   30 docs:   0.3333
+  At  100 docs:   0.2300
+  At  200 docs:   0.1400
+  At  500 docs:   0.0700
+  At 1000 docs:   0.0360
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3077
+
+Queryid (Num):       415  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       136
+    Rel_ret:        122
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       0.9032 
+    at 0.30       0.6833 
+    at 0.40       0.5773 
+    at 0.50       0.4897 
+    at 0.60       0.4242 
+    at 0.70       0.3596 
+    at 0.80       0.2997 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.5286 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   1.0000
+  At   15 docs:   0.9333
+  At   20 docs:   0.9000
+  At   30 docs:   0.9000
+  At  100 docs:   0.5600
+  At  200 docs:   0.4200
+  At  500 docs:   0.2280
+  At 1000 docs:   0.1220
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4926
+
+Queryid (Num):       416  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        42
+    Rel_ret:         41
+Interpolated Recall - Precision Averages:
+    at 0.00       0.5000 
+    at 0.10       0.5000 
+    at 0.20       0.4545 
+    at 0.30       0.4500 
+    at 0.40       0.4500 
+    at 0.50       0.3333 
+    at 0.60       0.2921 
+    at 0.70       0.2703 
+    at 0.80       0.2222 
+    at 0.90       0.1105 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.3038 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.3000
+  At   15 docs:   0.4667
+  At   20 docs:   0.4500
+  At   30 docs:   0.4333
+  At  100 docs:   0.2700
+  At  200 docs:   0.1750
+  At  500 docs:   0.0800
+  At 1000 docs:   0.0410
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4286
+
+Queryid (Num):       417  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        75
+    Rel_ret:          4
+Interpolated Recall - Precision Averages:
+    at 0.00       0.0043 
+    at 0.10       0.0000 
+    at 0.20       0.0000 
+    at 0.30       0.0000 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0002 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0000
+  At   20 docs:   0.0000
+  At   30 docs:   0.0000
+  At  100 docs:   0.0000
+  At  200 docs:   0.0000
+  At  500 docs:   0.0020
+  At 1000 docs:   0.0040
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0000
+
+Queryid (Num):       418  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       116
+    Rel_ret:        112
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.5143 
+    at 0.20       0.4673 
+    at 0.30       0.4673 
+    at 0.40       0.4673 
+    at 0.50       0.4427 
+    at 0.60       0.4186 
+    at 0.70       0.4048 
+    at 0.80       0.3615 
+    at 0.90       0.2079 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.4156 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.7000
+  At   15 docs:   0.5333
+  At   20 docs:   0.4000
+  At   30 docs:   0.4667
+  At  100 docs:   0.4400
+  At  200 docs:   0.4000
+  At  500 docs:   0.2080
+  At 1000 docs:   0.1120
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4569
+
+Queryid (Num):       419  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        16
+    Rel_ret:         10
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.1765 
+    at 0.20       0.0506 
+    at 0.30       0.0506 
+    at 0.40       0.0506 
+    at 0.50       0.0506 
+    at 0.60       0.0211 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1000 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.1000
+  At   15 docs:   0.1333
+  At   20 docs:   0.1500
+  At   30 docs:   0.1000
+  At  100 docs:   0.0400
+  At  200 docs:   0.0400
+  At  500 docs:   0.0200
+  At 1000 docs:   0.0100
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1250
+
+Queryid (Num):       420  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        33
+    Rel_ret:         30
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       1.0000 
+    at 0.30       0.8571 
+    at 0.40       0.4828 
+    at 0.50       0.2656 
+    at 0.60       0.2121 
+    at 0.70       0.1364 
+    at 0.80       0.0870 
+    at 0.90       0.0485 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.4553 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   0.9000
+  At   15 docs:   0.8000
+  At   20 docs:   0.6000
+  At   30 docs:   0.4667
+  At  100 docs:   0.2100
+  At  200 docs:   0.1200
+  At  500 docs:   0.0560
+  At 1000 docs:   0.0300
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4242
+
+Queryid (Num):       421  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        83
+    Rel_ret:         42
+Interpolated Recall - Precision Averages:
+    at 0.00       0.1119 
+    at 0.10       0.1119 
+    at 0.20       0.0983 
+    at 0.30       0.0915 
+    at 0.40       0.0646 
+    at 0.50       0.0479 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0417 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0667
+  At   20 docs:   0.0500
+  At   30 docs:   0.0667
+  At  100 docs:   0.1000
+  At  200 docs:   0.0950
+  At  500 docs:   0.0660
+  At 1000 docs:   0.0420
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0723
+
+Queryid (Num):       422  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       152
+    Rel_ret:        125
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.9655 
+    at 0.20       0.9211 
+    at 0.30       0.8246 
+    at 0.40       0.7209 
+    at 0.50       0.6240 
+    at 0.60       0.4340 
+    at 0.70       0.3242 
+    at 0.80       0.1410 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.5346 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.9000
+  At   15 docs:   0.9333
+  At   20 docs:   0.9500
+  At   30 docs:   0.9333
+  At  100 docs:   0.6900
+  At  200 docs:   0.4400
+  At  500 docs:   0.2300
+  At 1000 docs:   0.1250
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.5461
+
+Queryid (Num):       423  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        21
+    Rel_ret:         21
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.9091 
+    at 0.20       0.9091 
+    at 0.30       0.9091 
+    at 0.40       0.9091 
+    at 0.50       0.8571 
+    at 0.60       0.5200 
+    at 0.70       0.3261 
+    at 0.80       0.1518 
+    at 0.90       0.0597 
+    at 1.00       0.0241 
+Average precision (non-interpolated) over all rel docs
+                  0.5885 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.9000
+  At   15 docs:   0.8000
+  At   20 docs:   0.6000
+  At   30 docs:   0.4333
+  At  100 docs:   0.1600
+  At  200 docs:   0.0850
+  At  500 docs:   0.0380
+  At 1000 docs:   0.0210
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.5714
+
+Queryid (Num):       424  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       171
+    Rel_ret:        129
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.6923 
+    at 0.20       0.5645 
+    at 0.30       0.3741 
+    at 0.40       0.3255 
+    at 0.50       0.2969 
+    at 0.60       0.2418 
+    at 0.70       0.1717 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.3059 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.7000
+  At   15 docs:   0.7333
+  At   20 docs:   0.7000
+  At   30 docs:   0.6000
+  At  100 docs:   0.4200
+  At  200 docs:   0.3400
+  At  500 docs:   0.2200
+  At 1000 docs:   0.1290
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3509
+
+Queryid (Num):       425  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       162
+    Rel_ret:        134
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.9600 
+    at 0.20       0.8723 
+    at 0.30       0.7101 
+    at 0.40       0.6168 
+    at 0.50       0.4969 
+    at 0.60       0.4645 
+    at 0.70       0.3628 
+    at 0.80       0.3118 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.5247 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   1.0000
+  At   15 docs:   0.9333
+  At   20 docs:   0.9500
+  At   30 docs:   0.9333
+  At  100 docs:   0.6200
+  At  200 docs:   0.4400
+  At  500 docs:   0.2620
+  At 1000 docs:   0.1340
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4938
+
+Queryid (Num):       426  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       202
+    Rel_ret:         49
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.2114 
+    at 0.20       0.1088 
+    at 0.30       0.0000 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0670 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.5000
+  At   15 docs:   0.3333
+  At   20 docs:   0.3000
+  At   30 docs:   0.4000
+  At  100 docs:   0.1900
+  At  200 docs:   0.1750
+  At  500 docs:   0.0880
+  At 1000 docs:   0.0490
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1733
+
+Queryid (Num):       427  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        50
+    Rel_ret:         43
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.7143 
+    at 0.20       0.3333 
+    at 0.30       0.3061 
+    at 0.40       0.2838 
+    at 0.50       0.2381 
+    at 0.60       0.2190 
+    at 0.70       0.1837 
+    at 0.80       0.1209 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2887 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.6000
+  At   15 docs:   0.4667
+  At   20 docs:   0.3500
+  At   30 docs:   0.3333
+  At  100 docs:   0.2400
+  At  200 docs:   0.1800
+  At  500 docs:   0.0840
+  At 1000 docs:   0.0430
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3000
+
+Queryid (Num):       428  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       118
+    Rel_ret:        100
+Interpolated Recall - Precision Averages:
+    at 0.00       0.6667 
+    at 0.10       0.5000 
+    at 0.20       0.4603 
+    at 0.30       0.4141 
+    at 0.40       0.3796 
+    at 0.50       0.3448 
+    at 0.60       0.2657 
+    at 0.70       0.1927 
+    at 0.80       0.1250 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2936 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.4000
+  At   15 docs:   0.5333
+  At   20 docs:   0.5000
+  At   30 docs:   0.4667
+  At  100 docs:   0.4100
+  At  200 docs:   0.3100
+  At  500 docs:   0.1760
+  At 1000 docs:   0.1000
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3814
+
+Queryid (Num):       429  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        11
+    Rel_ret:         11
+Interpolated Recall - Precision Averages:
+    at 0.00       0.3333 
+    at 0.10       0.3333 
+    at 0.20       0.3333 
+    at 0.30       0.3333 
+    at 0.40       0.3333 
+    at 0.50       0.3333 
+    at 0.60       0.3333 
+    at 0.70       0.2963 
+    at 0.80       0.2571 
+    at 0.90       0.2500 
+    at 1.00       0.2340 
+Average precision (non-interpolated) over all rel docs
+                  0.2771 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.3000
+  At   15 docs:   0.2667
+  At   20 docs:   0.3000
+  At   30 docs:   0.2667
+  At  100 docs:   0.1100
+  At  200 docs:   0.0550
+  At  500 docs:   0.0220
+  At 1000 docs:   0.0110
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2727
+
+Queryid (Num):       430  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:         6
+    Rel_ret:          6
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       1.0000 
+    at 0.30       1.0000 
+    at 0.40       0.6000 
+    at 0.50       0.6000 
+    at 0.60       0.3571 
+    at 0.70       0.3571 
+    at 0.80       0.3571 
+    at 0.90       0.3333 
+    at 1.00       0.3333 
+Average precision (non-interpolated) over all rel docs
+                  0.6040 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.3000
+  At   15 docs:   0.3333
+  At   20 docs:   0.3000
+  At   30 docs:   0.2000
+  At  100 docs:   0.0600
+  At  200 docs:   0.0300
+  At  500 docs:   0.0120
+  At 1000 docs:   0.0060
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.5000
+
+Queryid (Num):       431  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       130
+    Rel_ret:        124
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       0.7447 
+    at 0.30       0.7018 
+    at 0.40       0.6420 
+    at 0.50       0.5583 
+    at 0.60       0.4615 
+    at 0.70       0.3297 
+    at 0.80       0.2694 
+    at 0.90       0.2093 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.5276 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   1.0000
+  At   15 docs:   0.8667
+  At   20 docs:   0.7500
+  At   30 docs:   0.7333
+  At  100 docs:   0.5800
+  At  200 docs:   0.4100
+  At  500 docs:   0.2220
+  At 1000 docs:   0.1240
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.5308
+
+Queryid (Num):       432  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        28
+    Rel_ret:          3
+Interpolated Recall - Precision Averages:
+    at 0.00       0.0097 
+    at 0.10       0.0058 
+    at 0.20       0.0000 
+    at 0.30       0.0000 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0009 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0000
+  At   20 docs:   0.0000
+  At   30 docs:   0.0000
+  At  100 docs:   0.0000
+  At  200 docs:   0.0050
+  At  500 docs:   0.0040
+  At 1000 docs:   0.0030
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0000
+
+Queryid (Num):       433  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        13
+    Rel_ret:          7
+Interpolated Recall - Precision Averages:
+    at 0.00       0.5000 
+    at 0.10       0.0471 
+    at 0.20       0.0471 
+    at 0.30       0.0471 
+    at 0.40       0.0387 
+    at 0.50       0.0075 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0540 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.1000
+  At   15 docs:   0.0667
+  At   20 docs:   0.0500
+  At   30 docs:   0.0333
+  At  100 docs:   0.0400
+  At  200 docs:   0.0300
+  At  500 docs:   0.0120
+  At 1000 docs:   0.0070
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0769
+
+Queryid (Num):       434  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       347
+    Rel_ret:        242
+Interpolated Recall - Precision Averages:
+    at 0.00       0.6757 
+    at 0.10       0.5738 
+    at 0.20       0.4737 
+    at 0.30       0.4362 
+    at 0.40       0.3510 
+    at 0.50       0.2905 
+    at 0.60       0.2488 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2793 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.6000
+  At   15 docs:   0.6000
+  At   20 docs:   0.6500
+  At   30 docs:   0.6667
+  At  100 docs:   0.4900
+  At  200 docs:   0.4400
+  At  500 docs:   0.3160
+  At 1000 docs:   0.2420
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3718
+
+Queryid (Num):       435  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       117
+    Rel_ret:         72
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.3256 
+    at 0.20       0.3218 
+    at 0.30       0.2387 
+    at 0.40       0.2271 
+    at 0.50       0.1658 
+    at 0.60       0.0805 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1506 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.3000
+  At   15 docs:   0.2000
+  At   20 docs:   0.2000
+  At   30 docs:   0.2667
+  At  100 docs:   0.3000
+  At  200 docs:   0.2200
+  At  500 docs:   0.1280
+  At 1000 docs:   0.0720
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2650
+
+Queryid (Num):       436  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       180
+    Rel_ret:         61
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.6333 
+    at 0.20       0.1957 
+    at 0.30       0.0731 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1178 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.5000
+  At   15 docs:   0.6667
+  At   20 docs:   0.6500
+  At   30 docs:   0.6333
+  At  100 docs:   0.2600
+  At  200 docs:   0.1800
+  At  500 docs:   0.1020
+  At 1000 docs:   0.0610
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1944
+
+Queryid (Num):       437  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        72
+    Rel_ret:         30
+Interpolated Recall - Precision Averages:
+    at 0.00       0.1026 
+    at 0.10       0.0759 
+    at 0.20       0.0748 
+    at 0.30       0.0486 
+    at 0.40       0.0339 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0245 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0000
+  At   20 docs:   0.0000
+  At   30 docs:   0.0333
+  At  100 docs:   0.0600
+  At  200 docs:   0.0700
+  At  500 docs:   0.0460
+  At 1000 docs:   0.0300
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0556
+
+Queryid (Num):       438  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       173
+    Rel_ret:         59
+Interpolated Recall - Precision Averages:
+    at 0.00       0.1429 
+    at 0.10       0.1121 
+    at 0.20       0.0797 
+    at 0.30       0.0638 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0295 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0000
+  At   20 docs:   0.0000
+  At   30 docs:   0.0333
+  At  100 docs:   0.1000
+  At  200 docs:   0.1050
+  At  500 docs:   0.0760
+  At 1000 docs:   0.0590
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1040
+
+Queryid (Num):       439  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       219
+    Rel_ret:         41
+Interpolated Recall - Precision Averages:
+    at 0.00       0.5000 
+    at 0.10       0.0636 
+    at 0.20       0.0000 
+    at 0.30       0.0000 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0141 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.1000
+  At   15 docs:   0.0667
+  At   20 docs:   0.1000
+  At   30 docs:   0.1000
+  At  100 docs:   0.0900
+  At  200 docs:   0.0700
+  At  500 docs:   0.0500
+  At 1000 docs:   0.0410
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0685
+
+Queryid (Num):       440  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        54
+    Rel_ret:         46
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.8571 
+    at 0.20       0.5238 
+    at 0.30       0.4565 
+    at 0.40       0.4231 
+    at 0.50       0.2547 
+    at 0.60       0.2230 
+    at 0.70       0.1206 
+    at 0.80       0.1068 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.3232 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.6000
+  At   15 docs:   0.6000
+  At   20 docs:   0.5000
+  At   30 docs:   0.4333
+  At  100 docs:   0.2600
+  At  200 docs:   0.1700
+  At  500 docs:   0.0880
+  At 1000 docs:   0.0460
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4074
+
+Queryid (Num):       441  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        17
+    Rel_ret:         16
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       1.0000 
+    at 0.30       0.8000 
+    at 0.40       0.8000 
+    at 0.50       0.6667 
+    at 0.60       0.6471 
+    at 0.70       0.4800 
+    at 0.80       0.4118 
+    at 0.90       0.2857 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.6471 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.8000
+  At   15 docs:   0.6667
+  At   20 docs:   0.5500
+  At   30 docs:   0.4000
+  At  100 docs:   0.1600
+  At  200 docs:   0.0800
+  At  500 docs:   0.0320
+  At 1000 docs:   0.0160
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.6471
+
+Queryid (Num):       442  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        94
+    Rel_ret:         25
+Interpolated Recall - Precision Averages:
+    at 0.00       0.7500 
+    at 0.10       0.0787 
+    at 0.20       0.0438 
+    at 0.30       0.0000 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0380 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.3000
+  At   15 docs:   0.2667
+  At   20 docs:   0.2000
+  At   30 docs:   0.1333
+  At  100 docs:   0.0800
+  At  200 docs:   0.0600
+  At  500 docs:   0.0400
+  At 1000 docs:   0.0250
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0851
+
+Queryid (Num):       443  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       102
+    Rel_ret:         70
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.2131 
+    at 0.20       0.1603 
+    at 0.30       0.1354 
+    at 0.40       0.1250 
+    at 0.50       0.1138 
+    at 0.60       0.0919 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1091 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.4000
+  At   15 docs:   0.2667
+  At   20 docs:   0.2500
+  At   30 docs:   0.2333
+  At  100 docs:   0.1600
+  At  200 docs:   0.1350
+  At  500 docs:   0.1080
+  At 1000 docs:   0.0700
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1569
+
+Queryid (Num):       444  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        17
+    Rel_ret:         16
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       1.0000 
+    at 0.30       1.0000 
+    at 0.40       0.6667 
+    at 0.50       0.6429 
+    at 0.60       0.3548 
+    at 0.70       0.2222 
+    at 0.80       0.1687 
+    at 0.90       0.0230 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.5543 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   0.6000
+  At   15 docs:   0.6000
+  At   20 docs:   0.4500
+  At   30 docs:   0.3333
+  At  100 docs:   0.1400
+  At  200 docs:   0.0700
+  At  500 docs:   0.0300
+  At 1000 docs:   0.0160
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.5294
+
+Queryid (Num):       445  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        62
+    Rel_ret:         57
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       0.5000 
+    at 0.30       0.3651 
+    at 0.40       0.3521 
+    at 0.50       0.2397 
+    at 0.60       0.2317 
+    at 0.70       0.1837 
+    at 0.80       0.1484 
+    at 0.90       0.1094 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.3544 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   0.9000
+  At   15 docs:   0.6667
+  At   20 docs:   0.5500
+  At   30 docs:   0.4333
+  At  100 docs:   0.2500
+  At  200 docs:   0.2050
+  At  500 docs:   0.1100
+  At 1000 docs:   0.0570
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3548
+
+Queryid (Num):       446  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       162
+    Rel_ret:        116
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.7250 
+    at 0.20       0.6935 
+    at 0.30       0.6250 
+    at 0.40       0.4024 
+    at 0.50       0.2812 
+    at 0.60       0.1633 
+    at 0.70       0.1191 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.3227 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.5000
+  At   15 docs:   0.6000
+  At   20 docs:   0.7000
+  At   30 docs:   0.7000
+  At  100 docs:   0.5600
+  At  200 docs:   0.3550
+  At  500 docs:   0.1860
+  At 1000 docs:   0.1160
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4012
+
+Queryid (Num):       447  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        16
+    Rel_ret:         15
+Interpolated Recall - Precision Averages:
+    at 0.00       0.5000 
+    at 0.10       0.5000 
+    at 0.20       0.3704 
+    at 0.30       0.3704 
+    at 0.40       0.3704 
+    at 0.50       0.3704 
+    at 0.60       0.3704 
+    at 0.70       0.2791 
+    at 0.80       0.2549 
+    at 0.90       0.2344 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.3027 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.2000
+  At   15 docs:   0.2667
+  At   20 docs:   0.2500
+  At   30 docs:   0.3333
+  At  100 docs:   0.1500
+  At  200 docs:   0.0750
+  At  500 docs:   0.0300
+  At 1000 docs:   0.0150
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2500
+
+Queryid (Num):       448  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        46
+    Rel_ret:         22
+Interpolated Recall - Precision Averages:
+    at 0.00       0.5000 
+    at 0.10       0.3571 
+    at 0.20       0.2128 
+    at 0.30       0.1186 
+    at 0.40       0.0315 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0943 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.3000
+  At   15 docs:   0.3333
+  At   20 docs:   0.3500
+  At   30 docs:   0.2667
+  At  100 docs:   0.1200
+  At  200 docs:   0.0750
+  At  500 docs:   0.0340
+  At 1000 docs:   0.0220
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1957
+
+Queryid (Num):       449  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        67
+    Rel_ret:         47
+Interpolated Recall - Precision Averages:
+    at 0.00       0.7500 
+    at 0.10       0.2051 
+    at 0.20       0.1119 
+    at 0.30       0.1040 
+    at 0.40       0.0844 
+    at 0.50       0.0802 
+    at 0.60       0.0706 
+    at 0.70       0.0523 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1093 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.4000
+  At   15 docs:   0.4000
+  At   20 docs:   0.3000
+  At   30 docs:   0.2000
+  At  100 docs:   0.1200
+  At  200 docs:   0.1000
+  At  500 docs:   0.0680
+  At 1000 docs:   0.0470
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1642
+
+Queryid (Num):       450  Flab8atd2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       293
+    Rel_ret:        255
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.8824 
+    at 0.20       0.7867 
+    at 0.30       0.6138 
+    at 0.40       0.5540 
+    at 0.50       0.5485 
+    at 0.60       0.4621 
+    at 0.70       0.3962 
+    at 0.80       0.3451 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.5084 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.9000
+  At   15 docs:   0.9333
+  At   20 docs:   0.9000
+  At   30 docs:   0.8667
+  At  100 docs:   0.7200
+  At  200 docs:   0.5550
+  At  500 docs:   0.4100
+  At 1000 docs:   0.2550
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.5222
+
+Queryid (Num):       all  Flab8atd2
+Total number of documents over all queries
+    Retrieved:    50000
+    Relevant:      4728
+    Rel_ret:       2990
+Interpolated Recall - Precision Averages:
+    at 0.00       0.7796 
+    at 0.10       0.5490 
+    at 0.20       0.4517 
+    at 0.30       0.3954 
+    at 0.40       0.3397 
+    at 0.50       0.2863 
+    at 0.60       0.2291 
+    at 0.70       0.1745 
+    at 0.80       0.1381 
+    at 0.90       0.0720 
+    at 1.00       0.0224 
+Average precision (non-interpolated) over all rel docs
+                  0.2930 
+Precision:
+  At    5 docs:   0.5480
+  At   10 docs:   0.4880
+  At   15 docs:   0.4587
+  At   20 docs:   0.4200
+  At   30 docs:   0.3887
+  At  100 docs:   0.2490
+  At  200 docs:   0.1777
+  At  500 docs:   0.1011
+  At 1000 docs:   0.0598
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3203
+
+Statistics computed over 59 automatic ad hoc runs that used the title and
+description sections of the topic statement (4 runs used description only).
+
+         #        Relevant Retr. @ 100      Relevant Retr @ 1000        Average Precision 
+Topic   Rel.      Best   Median  Worst      Best   Median  Worst      Best   Median  Worst
+-----   ----     ------  ------  ------    ------  ------  ------    ------  ------  ------
+401     300        24      4       0         102     39      0       0.0563  0.0063  0.0000  
+402     80         37      22      0         76      63      5       0.3740  0.1883  0.0004  
+403     21         21      20      0         21      21      0       0.9243  0.8028  0.0000  
+404     142        36      25      0         128     119     0       0.2885  0.1957  0.0000  
+405     38         27      14      0         36      23      0       0.3378  0.1256  0.0000  
+406     13         13      9       0         13      13      0       0.5633  0.3460  0.0000  
+407     68         43      28      1         67      47      3       0.5248  0.2785  0.0008  
+408     118        47      35      1         100     81      1       0.3026  0.2188  0.0001  
+409     22         16      10      0         22      20      0       0.2877  0.1591  0.0000  
+410     65         63      58      0         65      63      0       0.9111  0.8232  0.0000  
+411     27         15      11      0         23      18      0       0.3544  0.1834  0.0000  
+412     123        52      23      0         105     66      0       0.4829  0.1119  0.0000  
+413     69         34      16      0         61      50      0       0.4435  0.1267  0.0000  
+414     39         25      19      0         39      34      0       0.3448  0.2068  0.0000  
+415     136        79      51      0         136     108     0       0.7741  0.4140  0.0000  
+416     42         31      26      0         42      40      0       0.5047  0.2958  0.0000  
+417     75         36      18      0         67      47      1       0.3941  0.1543  0.0000  
+418     116        58      38      0         116     101     0       0.6514  0.3082  0.0000  
+419     16         12      5       0         14      10      0       0.4385  0.0939  0.0000  
+420     33         29      18      0         32      30      0       0.6014  0.3673  0.0000  
+421     83         25      8       0         57      45      0       0.1134  0.0463  0.0000  
+422     152        69      39      0         125     103     2       0.5346  0.2117  0.0001  
+423     21         20      16      0         21      20      2       0.7360  0.5709  0.0002  
+424     171        48      30      2         143     110     11      0.3075  0.1579  0.0031  
+425     162        70      52      0         150     132     1       0.5663  0.4063  0.0000  
+426     202        51      9       0         129     33      0       0.2652  0.0191  0.0000  
+427     50         32      20      0         46      38      0       0.3403  0.1988  0.0000  
+428     118        47      32      0         111     84      3       0.3345  0.1894  0.0002  
+429     11         11      10      0         11      11      1       0.5964  0.2655  0.0003  
+430     6          6       6       0         6       6       0       0.7419  0.5086  0.0000  
+431     130        64      46      0         130     90      0       0.5435  0.3007  0.0000  
+432     28         10      1       0         16      5       0       0.0629  0.0036  0.0000  
+433     13         6       3       0         11      4       0       0.1599  0.0229  0.0000  
+434     347        82      58      0         281     250     1       0.5153  0.3170  0.0001  
+435     117        37      20      1         101     59      2       0.2659  0.0920  0.0010  
+436     180        44      18      0         96      40      1       0.2293  0.0528  0.0001  
+437     72         15      6       0         56      33      0       0.1026  0.0265  0.0000  
+438     173        49      33      0         142     120     0       0.3422  0.1892  0.0000  
+439     219        46      8       0         128     53      0       0.1846  0.0194  0.0000  
+440     54         33      11      0         51      27      0       0.4513  0.0722  0.0000  
+441     17         17      15      0         17      17      0       0.7135  0.5513  0.0000  
+442     94         11      4       0         35      18      0       0.0458  0.0077  0.0000  
+443     102        38      16      0         81      61      1       0.3124  0.0912  0.0001  
+444     17         17      14      0         17      16      0       0.9297  0.5626  0.0000  
+445     62         30      17      0         60      39      0       0.3870  0.1951  0.0000  
+446     162        68      26      0         144     83      0       0.4906  0.1111  0.0000  
+447     16         16      8       0         16      15      0       0.9624  0.1770  0.0000  
+448     46         12      5       0         32      16      0       0.1075  0.0285  0.0000  
+449     67         17      13      0         55      42      2       0.1452  0.0978  0.0001  
+450     293        82      63      0         274     228     0       0.6469  0.4034  0.0000  

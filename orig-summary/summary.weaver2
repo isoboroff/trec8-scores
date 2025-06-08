@@ -1,0 +1,1692 @@
+This run was judged (i.e., the top 100 documents
+for each topic were added to the assessment pools).
+
+
+Queryid (Num):       401  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       300
+    Rel_ret:         20
+Interpolated Recall - Precision Averages:
+    at 0.00       0.0288 
+    at 0.10       0.0000 
+    at 0.20       0.0000 
+    at 0.30       0.0000 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0016 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0000
+  At   20 docs:   0.0000
+  At   30 docs:   0.0000
+  At  100 docs:   0.0200
+  At  200 docs:   0.0250
+  At  500 docs:   0.0260
+  At 1000 docs:   0.0200
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0167
+
+Queryid (Num):       402  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        80
+    Rel_ret:         60
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.6471 
+    at 0.20       0.4545 
+    at 0.30       0.3377 
+    at 0.40       0.2215 
+    at 0.50       0.1739 
+    at 0.60       0.1206 
+    at 0.70       0.0688 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2554 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   0.6000
+  At   15 docs:   0.6000
+  At   20 docs:   0.6000
+  At   30 docs:   0.4333
+  At  100 docs:   0.2900
+  At  200 docs:   0.1850
+  At  500 docs:   0.0960
+  At 1000 docs:   0.0600
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3250
+
+Queryid (Num):       403  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        21
+    Rel_ret:         21
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       0.7500 
+    at 0.30       0.6667 
+    at 0.40       0.6471 
+    at 0.50       0.6471 
+    at 0.60       0.4643 
+    at 0.70       0.3261 
+    at 0.80       0.2615 
+    at 0.90       0.0571 
+    at 1.00       0.0390 
+Average precision (non-interpolated) over all rel docs
+                  0.5324 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.6000
+  At   15 docs:   0.6000
+  At   20 docs:   0.5500
+  At   30 docs:   0.4333
+  At  100 docs:   0.1700
+  At  200 docs:   0.0900
+  At  500 docs:   0.0400
+  At 1000 docs:   0.0210
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.5238
+
+Queryid (Num):       404  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       142
+    Rel_ret:        122
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.3134 
+    at 0.20       0.3000 
+    at 0.30       0.2733 
+    at 0.40       0.2415 
+    at 0.50       0.2119 
+    at 0.60       0.1894 
+    at 0.70       0.1664 
+    at 0.80       0.1497 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2213 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.6000
+  At   15 docs:   0.4667
+  At   20 docs:   0.4500
+  At   30 docs:   0.3333
+  At  100 docs:   0.3000
+  At  200 docs:   0.2550
+  At  500 docs:   0.1780
+  At 1000 docs:   0.1220
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2746
+
+Queryid (Num):       405  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        38
+    Rel_ret:         35
+Interpolated Recall - Precision Averages:
+    at 0.00       0.6667 
+    at 0.10       0.6667 
+    at 0.20       0.4444 
+    at 0.30       0.4118 
+    at 0.40       0.3404 
+    at 0.50       0.3000 
+    at 0.60       0.3000 
+    at 0.70       0.2718 
+    at 0.80       0.1722 
+    at 0.90       0.0860 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.3132 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.6000
+  At   15 docs:   0.4000
+  At   20 docs:   0.4000
+  At   30 docs:   0.3667
+  At  100 docs:   0.2700
+  At  200 docs:   0.1600
+  At  500 docs:   0.0700
+  At 1000 docs:   0.0350
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3684
+
+Queryid (Num):       406  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        13
+    Rel_ret:         13
+Interpolated Recall - Precision Averages:
+    at 0.00       0.5385 
+    at 0.10       0.5385 
+    at 0.20       0.5385 
+    at 0.30       0.5385 
+    at 0.40       0.5385 
+    at 0.50       0.5385 
+    at 0.60       0.2941 
+    at 0.70       0.2941 
+    at 0.80       0.2308 
+    at 0.90       0.2308 
+    at 1.00       0.1171 
+Average precision (non-interpolated) over all rel docs
+                  0.3526 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.5000
+  At   15 docs:   0.4667
+  At   20 docs:   0.3500
+  At   30 docs:   0.2333
+  At  100 docs:   0.1200
+  At  200 docs:   0.0650
+  At  500 docs:   0.0260
+  At 1000 docs:   0.0130
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.5385
+
+Queryid (Num):       407  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        68
+    Rel_ret:         66
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.5833 
+    at 0.20       0.5143 
+    at 0.30       0.4694 
+    at 0.40       0.3333 
+    at 0.50       0.2906 
+    at 0.60       0.2103 
+    at 0.70       0.1825 
+    at 0.80       0.1100 
+    at 0.90       0.0729 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.3093 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.6000
+  At   15 docs:   0.4667
+  At   20 docs:   0.4500
+  At   30 docs:   0.5000
+  At  100 docs:   0.3000
+  At  200 docs:   0.2050
+  At  500 docs:   0.1100
+  At 1000 docs:   0.0660
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3824
+
+Queryid (Num):       408  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       118
+    Rel_ret:         95
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.4792 
+    at 0.20       0.4792 
+    at 0.30       0.4792 
+    at 0.40       0.4364 
+    at 0.50       0.3734 
+    at 0.60       0.3090 
+    at 0.70       0.2159 
+    at 0.80       0.1116 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.3026 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.4000
+  At   15 docs:   0.4000
+  At   20 docs:   0.3500
+  At   30 docs:   0.3667
+  At  100 docs:   0.4700
+  At  200 docs:   0.3200
+  At  500 docs:   0.1740
+  At 1000 docs:   0.0950
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4237
+
+Queryid (Num):       409  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        22
+    Rel_ret:         22
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.6667 
+    at 0.20       0.5000 
+    at 0.30       0.1707 
+    at 0.40       0.1667 
+    at 0.50       0.1618 
+    at 0.60       0.1210 
+    at 0.70       0.1088 
+    at 0.80       0.0905 
+    at 0.90       0.0728 
+    at 1.00       0.0728 
+Average precision (non-interpolated) over all rel docs
+                  0.2724 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.5000
+  At   15 docs:   0.3333
+  At   20 docs:   0.3000
+  At   30 docs:   0.2000
+  At  100 docs:   0.1200
+  At  200 docs:   0.0900
+  At  500 docs:   0.0440
+  At 1000 docs:   0.0220
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2727
+
+Queryid (Num):       410  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        65
+    Rel_ret:         64
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       1.0000 
+    at 0.30       0.9375 
+    at 0.40       0.9375 
+    at 0.50       0.9167 
+    at 0.60       0.8478 
+    at 0.70       0.8070 
+    at 0.80       0.6842 
+    at 0.90       0.3797 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.8048 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   1.0000
+  At   15 docs:   1.0000
+  At   20 docs:   0.9000
+  At   30 docs:   0.9333
+  At  100 docs:   0.5600
+  At  200 docs:   0.3050
+  At  500 docs:   0.1280
+  At 1000 docs:   0.0640
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.7231
+
+Queryid (Num):       411  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        27
+    Rel_ret:         23
+Interpolated Recall - Precision Averages:
+    at 0.00       0.6667 
+    at 0.10       0.6000 
+    at 0.20       0.1296 
+    at 0.30       0.1158 
+    at 0.40       0.1158 
+    at 0.50       0.0986 
+    at 0.60       0.0756 
+    at 0.70       0.0496 
+    at 0.80       0.0338 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1344 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.3000
+  At   15 docs:   0.2000
+  At   20 docs:   0.1500
+  At   30 docs:   0.1667
+  At  100 docs:   0.1100
+  At  200 docs:   0.0800
+  At  500 docs:   0.0400
+  At 1000 docs:   0.0230
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1852
+
+Queryid (Num):       412  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       123
+    Rel_ret:         53
+Interpolated Recall - Precision Averages:
+    at 0.00       0.2000 
+    at 0.10       0.1027 
+    at 0.20       0.0954 
+    at 0.30       0.0839 
+    at 0.40       0.0569 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0407 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.1000
+  At   15 docs:   0.1333
+  At   20 docs:   0.1000
+  At   30 docs:   0.1333
+  At  100 docs:   0.0900
+  At  200 docs:   0.0950
+  At  500 docs:   0.0780
+  At 1000 docs:   0.0530
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0894
+
+Queryid (Num):       413  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        69
+    Rel_ret:         49
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.5833 
+    at 0.20       0.3500 
+    at 0.30       0.2211 
+    at 0.40       0.1327 
+    at 0.50       0.0860 
+    at 0.60       0.0555 
+    at 0.70       0.0513 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1856 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.5000
+  At   15 docs:   0.5333
+  At   20 docs:   0.4000
+  At   30 docs:   0.4000
+  At  100 docs:   0.2100
+  At  200 docs:   0.1350
+  At  500 docs:   0.0720
+  At 1000 docs:   0.0490
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2609
+
+Queryid (Num):       414  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        39
+    Rel_ret:         36
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.4000 
+    at 0.20       0.3793 
+    at 0.30       0.3243 
+    at 0.40       0.2405 
+    at 0.50       0.2000 
+    at 0.60       0.1463 
+    at 0.70       0.1181 
+    at 0.80       0.0836 
+    at 0.90       0.0464 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2198 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.4000
+  At   15 docs:   0.3333
+  At   20 docs:   0.3500
+  At   30 docs:   0.3667
+  At  100 docs:   0.2000
+  At  200 docs:   0.1300
+  At  500 docs:   0.0640
+  At 1000 docs:   0.0360
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3077
+
+Queryid (Num):       415  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       136
+    Rel_ret:        136
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.9310 
+    at 0.20       0.9143 
+    at 0.30       0.8367 
+    at 0.40       0.8068 
+    at 0.50       0.8068 
+    at 0.60       0.7593 
+    at 0.70       0.6531 
+    at 0.80       0.6250 
+    at 0.90       0.4843 
+    at 1.00       0.1456 
+Average precision (non-interpolated) over all rel docs
+                  0.7372 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   1.0000
+  At   15 docs:   0.8667
+  At   20 docs:   0.9000
+  At   30 docs:   0.9000
+  At  100 docs:   0.7700
+  At  200 docs:   0.5750
+  At  500 docs:   0.2660
+  At 1000 docs:   0.1360
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.6691
+
+Queryid (Num):       416  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        42
+    Rel_ret:         41
+Interpolated Recall - Precision Averages:
+    at 0.00       0.5000 
+    at 0.10       0.4643 
+    at 0.20       0.4643 
+    at 0.30       0.4643 
+    at 0.40       0.3617 
+    at 0.50       0.3500 
+    at 0.60       0.3500 
+    at 0.70       0.2419 
+    at 0.80       0.1511 
+    at 0.90       0.1008 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2929 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.4000
+  At   15 docs:   0.2667
+  At   20 docs:   0.3500
+  At   30 docs:   0.4333
+  At  100 docs:   0.2900
+  At  200 docs:   0.1550
+  At  500 docs:   0.0820
+  At 1000 docs:   0.0410
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3810
+
+Queryid (Num):       417  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        75
+    Rel_ret:         57
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.3226 
+    at 0.20       0.2344 
+    at 0.30       0.1667 
+    at 0.40       0.1667 
+    at 0.50       0.1333 
+    at 0.60       0.0957 
+    at 0.70       0.0656 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1543 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.4000
+  At   15 docs:   0.4000
+  At   20 docs:   0.3500
+  At   30 docs:   0.3000
+  At  100 docs:   0.1800
+  At  200 docs:   0.1650
+  At  500 docs:   0.0920
+  At 1000 docs:   0.0570
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2133
+
+Queryid (Num):       418  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       116
+    Rel_ret:        116
+Interpolated Recall - Precision Averages:
+    at 0.00       0.5000 
+    at 0.10       0.3846 
+    at 0.20       0.3380 
+    at 0.30       0.3176 
+    at 0.40       0.3176 
+    at 0.50       0.3176 
+    at 0.60       0.3176 
+    at 0.70       0.3142 
+    at 0.80       0.3067 
+    at 0.90       0.3017 
+    at 1.00       0.2156 
+Average precision (non-interpolated) over all rel docs
+                  0.3140 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.4000
+  At   15 docs:   0.3333
+  At   20 docs:   0.4500
+  At   30 docs:   0.3667
+  At  100 docs:   0.2700
+  At  200 docs:   0.3000
+  At  500 docs:   0.2300
+  At 1000 docs:   0.1160
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3017
+
+Queryid (Num):       419  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        16
+    Rel_ret:         12
+Interpolated Recall - Precision Averages:
+    at 0.00       0.2500 
+    at 0.10       0.2500 
+    at 0.20       0.1905 
+    at 0.30       0.1515 
+    at 0.40       0.1136 
+    at 0.50       0.1136 
+    at 0.60       0.1136 
+    at 0.70       0.1000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1082 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.2000
+  At   15 docs:   0.1333
+  At   20 docs:   0.1500
+  At   30 docs:   0.1333
+  At  100 docs:   0.1000
+  At  200 docs:   0.0600
+  At  500 docs:   0.0240
+  At 1000 docs:   0.0120
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1250
+
+Queryid (Num):       420  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        33
+    Rel_ret:         30
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.5000 
+    at 0.20       0.4375 
+    at 0.30       0.3667 
+    at 0.40       0.2857 
+    at 0.50       0.2179 
+    at 0.60       0.1818 
+    at 0.70       0.1702 
+    at 0.80       0.1154 
+    at 0.90       0.0758 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2689 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.4000
+  At   15 docs:   0.4000
+  At   20 docs:   0.4000
+  At   30 docs:   0.3667
+  At  100 docs:   0.1800
+  At  200 docs:   0.1300
+  At  500 docs:   0.0600
+  At 1000 docs:   0.0300
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3333
+
+Queryid (Num):       421  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        83
+    Rel_ret:         39
+Interpolated Recall - Precision Averages:
+    at 0.00       0.1667 
+    at 0.10       0.0596 
+    at 0.20       0.0596 
+    at 0.30       0.0505 
+    at 0.40       0.0449 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0251 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.1000
+  At   15 docs:   0.1333
+  At   20 docs:   0.1000
+  At   30 docs:   0.0667
+  At  100 docs:   0.0500
+  At  200 docs:   0.0500
+  At  500 docs:   0.0460
+  At 1000 docs:   0.0390
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0361
+
+Queryid (Num):       422  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       152
+    Rel_ret:        117
+Interpolated Recall - Precision Averages:
+    at 0.00       0.3750 
+    at 0.10       0.3636 
+    at 0.20       0.3636 
+    at 0.30       0.3357 
+    at 0.40       0.2707 
+    at 0.50       0.2216 
+    at 0.60       0.1713 
+    at 0.70       0.1430 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1931 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.3000
+  At   15 docs:   0.2000
+  At   20 docs:   0.2500
+  At   30 docs:   0.2667
+  At  100 docs:   0.3500
+  At  200 docs:   0.2750
+  At  500 docs:   0.1780
+  At 1000 docs:   0.1170
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3092
+
+Queryid (Num):       423  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        21
+    Rel_ret:         21
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       1.0000 
+    at 0.30       0.9167 
+    at 0.40       0.9167 
+    at 0.50       0.9167 
+    at 0.60       0.4483 
+    at 0.70       0.2830 
+    at 0.80       0.2394 
+    at 0.90       0.1624 
+    at 1.00       0.1438 
+Average precision (non-interpolated) over all rel docs
+                  0.6241 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   0.9000
+  At   15 docs:   0.7333
+  At   20 docs:   0.5500
+  At   30 docs:   0.4333
+  At  100 docs:   0.1700
+  At  200 docs:   0.1050
+  At  500 docs:   0.0420
+  At 1000 docs:   0.0210
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.5714
+
+Queryid (Num):       424  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       171
+    Rel_ret:         74
+Interpolated Recall - Precision Averages:
+    at 0.00       0.5000 
+    at 0.10       0.1121 
+    at 0.20       0.0905 
+    at 0.30       0.0905 
+    at 0.40       0.0802 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0460 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.2000
+  At   15 docs:   0.2000
+  At   20 docs:   0.1500
+  At   30 docs:   0.1667
+  At  100 docs:   0.1200
+  At  200 docs:   0.1000
+  At  500 docs:   0.0740
+  At 1000 docs:   0.0740
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0936
+
+Queryid (Num):       425  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       162
+    Rel_ret:        143
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.9091 
+    at 0.20       0.6316 
+    at 0.30       0.5204 
+    at 0.40       0.3822 
+    at 0.50       0.3822 
+    at 0.60       0.3564 
+    at 0.70       0.2798 
+    at 0.80       0.2574 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.4227 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   0.9000
+  At   15 docs:   0.8667
+  At   20 docs:   0.9000
+  At   30 docs:   0.8000
+  At  100 docs:   0.5100
+  At  200 docs:   0.3450
+  At  500 docs:   0.2540
+  At 1000 docs:   0.1430
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3765
+
+Queryid (Num):       426  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       202
+    Rel_ret:         26
+Interpolated Recall - Precision Averages:
+    at 0.00       0.2500 
+    at 0.10       0.0323 
+    at 0.20       0.0000 
+    at 0.30       0.0000 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0069 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.1000
+  At   15 docs:   0.0667
+  At   20 docs:   0.1000
+  At   30 docs:   0.1000
+  At  100 docs:   0.0500
+  At  200 docs:   0.0450
+  At  500 docs:   0.0320
+  At 1000 docs:   0.0260
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0495
+
+Queryid (Num):       427  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        50
+    Rel_ret:         43
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.8333 
+    at 0.20       0.3704 
+    at 0.30       0.2812 
+    at 0.40       0.2658 
+    at 0.50       0.1686 
+    at 0.60       0.1676 
+    at 0.70       0.1057 
+    at 0.80       0.0638 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.2749 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.8000
+  At   15 docs:   0.6000
+  At   20 docs:   0.4500
+  At   30 docs:   0.3333
+  At  100 docs:   0.2100
+  At  200 docs:   0.1500
+  At  500 docs:   0.0740
+  At 1000 docs:   0.0430
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2600
+
+Queryid (Num):       428  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       118
+    Rel_ret:         82
+Interpolated Recall - Precision Averages:
+    at 0.00       0.2286 
+    at 0.10       0.2286 
+    at 0.20       0.2286 
+    at 0.30       0.1831 
+    at 0.40       0.1629 
+    at 0.50       0.1382 
+    at 0.60       0.1127 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1115 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0000
+  At   20 docs:   0.1500
+  At   30 docs:   0.1333
+  At  100 docs:   0.2200
+  At  200 docs:   0.1800
+  At  500 docs:   0.1260
+  At 1000 docs:   0.0820
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2203
+
+Queryid (Num):       429  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        11
+    Rel_ret:         11
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.5000 
+    at 0.20       0.1667 
+    at 0.30       0.1667 
+    at 0.40       0.1667 
+    at 0.50       0.1667 
+    at 0.60       0.1250 
+    at 0.70       0.1212 
+    at 0.80       0.1163 
+    at 0.90       0.1163 
+    at 1.00       0.1058 
+Average precision (non-interpolated) over all rel docs
+                  0.2381 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.2000
+  At   15 docs:   0.1333
+  At   20 docs:   0.1000
+  At   30 docs:   0.1000
+  At  100 docs:   0.1000
+  At  200 docs:   0.0550
+  At  500 docs:   0.0220
+  At 1000 docs:   0.0110
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1818
+
+Queryid (Num):       430  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:         6
+    Rel_ret:          6
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       0.4000 
+    at 0.30       0.4000 
+    at 0.40       0.4000 
+    at 0.50       0.4000 
+    at 0.60       0.4000 
+    at 0.70       0.4000 
+    at 0.80       0.4000 
+    at 0.90       0.4000 
+    at 1.00       0.4000 
+Average precision (non-interpolated) over all rel docs
+                  0.4742 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.4000
+  At   15 docs:   0.4000
+  At   20 docs:   0.3000
+  At   30 docs:   0.2000
+  At  100 docs:   0.0600
+  At  200 docs:   0.0300
+  At  500 docs:   0.0120
+  At 1000 docs:   0.0060
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1667
+
+Queryid (Num):       431  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       130
+    Rel_ret:        125
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.7778 
+    at 0.20       0.6000 
+    at 0.30       0.5405 
+    at 0.40       0.4821 
+    at 0.50       0.3611 
+    at 0.60       0.3113 
+    at 0.70       0.2542 
+    at 0.80       0.2208 
+    at 0.90       0.1866 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.4134 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.8000
+  At   15 docs:   0.7333
+  At   20 docs:   0.7000
+  At   30 docs:   0.6333
+  At  100 docs:   0.4800
+  At  200 docs:   0.3450
+  At  500 docs:   0.2080
+  At 1000 docs:   0.1250
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4308
+
+Queryid (Num):       432  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        28
+    Rel_ret:         12
+Interpolated Recall - Precision Averages:
+    at 0.00       0.0345 
+    at 0.10       0.0227 
+    at 0.20       0.0133 
+    at 0.30       0.0127 
+    at 0.40       0.0127 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0070 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0000
+  At   20 docs:   0.0000
+  At   30 docs:   0.0000
+  At  100 docs:   0.0200
+  At  200 docs:   0.0150
+  At  500 docs:   0.0120
+  At 1000 docs:   0.0120
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0000
+
+Queryid (Num):       433  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        13
+    Rel_ret:          7
+Interpolated Recall - Precision Averages:
+    at 0.00       0.2857 
+    at 0.10       0.2857 
+    at 0.20       0.2000 
+    at 0.30       0.1471 
+    at 0.40       0.0175 
+    at 0.50       0.0142 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0813 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.2000
+  At   15 docs:   0.2000
+  At   20 docs:   0.1500
+  At   30 docs:   0.1333
+  At  100 docs:   0.0500
+  At  200 docs:   0.0250
+  At  500 docs:   0.0140
+  At 1000 docs:   0.0070
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1538
+
+Queryid (Num):       434  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       347
+    Rel_ret:        259
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.8125 
+    at 0.20       0.6518 
+    at 0.30       0.5904 
+    at 0.40       0.5128 
+    at 0.50       0.4321 
+    at 0.60       0.3573 
+    at 0.70       0.2700 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.4083 
+Precision:
+  At    5 docs:   0.8000
+  At   10 docs:   0.9000
+  At   15 docs:   0.8667
+  At   20 docs:   0.8500
+  At   30 docs:   0.8667
+  At  100 docs:   0.6700
+  At  200 docs:   0.5800
+  At  500 docs:   0.3880
+  At 1000 docs:   0.2590
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4553
+
+Queryid (Num):       435  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       117
+    Rel_ret:         25
+Interpolated Recall - Precision Averages:
+    at 0.00       0.4000 
+    at 0.10       0.0498 
+    at 0.20       0.0292 
+    at 0.30       0.0000 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0139 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.2000
+  At   15 docs:   0.1333
+  At   20 docs:   0.1000
+  At   30 docs:   0.0667
+  At  100 docs:   0.0200
+  At  200 docs:   0.0350
+  At  500 docs:   0.0380
+  At 1000 docs:   0.0250
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0342
+
+Queryid (Num):       436  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       180
+    Rel_ret:         96
+Interpolated Recall - Precision Averages:
+    at 0.00       0.6667 
+    at 0.10       0.4634 
+    at 0.20       0.3913 
+    at 0.30       0.1731 
+    at 0.40       0.1359 
+    at 0.50       0.1084 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1468 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.5000
+  At   15 docs:   0.5333
+  At   20 docs:   0.4500
+  At   30 docs:   0.4667
+  At  100 docs:   0.3600
+  At  200 docs:   0.2200
+  At  500 docs:   0.1360
+  At 1000 docs:   0.0960
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2389
+
+Queryid (Num):       437  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        72
+    Rel_ret:         55
+Interpolated Recall - Precision Averages:
+    at 0.00       0.5000 
+    at 0.10       0.1286 
+    at 0.20       0.1231 
+    at 0.30       0.1003 
+    at 0.40       0.1003 
+    at 0.50       0.0903 
+    at 0.60       0.0741 
+    at 0.70       0.0586 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0814 
+Precision:
+  At    5 docs:   0.4000
+  At   10 docs:   0.2000
+  At   15 docs:   0.1333
+  At   20 docs:   0.1000
+  At   30 docs:   0.0667
+  At  100 docs:   0.1100
+  At  200 docs:   0.1000
+  At  500 docs:   0.0840
+  At 1000 docs:   0.0550
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1250
+
+Queryid (Num):       438  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       173
+    Rel_ret:        122
+Interpolated Recall - Precision Averages:
+    at 0.00       0.4167 
+    at 0.10       0.2621 
+    at 0.20       0.2621 
+    at 0.30       0.2374 
+    at 0.40       0.2038 
+    at 0.50       0.1747 
+    at 0.60       0.1491 
+    at 0.70       0.1266 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.1468 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.1000
+  At   15 docs:   0.2667
+  At   20 docs:   0.3000
+  At   30 docs:   0.3333
+  At  100 docs:   0.2000
+  At  200 docs:   0.2450
+  At  500 docs:   0.1740
+  At 1000 docs:   0.1220
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2486
+
+Queryid (Num):       439  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       219
+    Rel_ret:         91
+Interpolated Recall - Precision Averages:
+    at 0.00       0.3333 
+    at 0.10       0.1108 
+    at 0.20       0.1108 
+    at 0.30       0.0997 
+    at 0.40       0.0938 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0431 
+Precision:
+  At    5 docs:   0.2000
+  At   10 docs:   0.1000
+  At   15 docs:   0.2000
+  At   20 docs:   0.1500
+  At   30 docs:   0.1333
+  At  100 docs:   0.1000
+  At  200 docs:   0.0850
+  At  500 docs:   0.1060
+  At 1000 docs:   0.0910
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0822
+
+Queryid (Num):       440  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        54
+    Rel_ret:         25
+Interpolated Recall - Precision Averages:
+    at 0.00       0.1250 
+    at 0.10       0.0952 
+    at 0.20       0.0803 
+    at 0.30       0.0397 
+    at 0.40       0.0283 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0283 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.1000
+  At   15 docs:   0.0667
+  At   20 docs:   0.0500
+  At   30 docs:   0.1000
+  At  100 docs:   0.0700
+  At  200 docs:   0.0550
+  At  500 docs:   0.0340
+  At 1000 docs:   0.0250
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0926
+
+Queryid (Num):       441  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        17
+    Rel_ret:         17
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.8000 
+    at 0.20       0.8000 
+    at 0.30       0.8000 
+    at 0.40       0.8000 
+    at 0.50       0.6923 
+    at 0.60       0.5238 
+    at 0.70       0.5217 
+    at 0.80       0.4706 
+    at 0.90       0.4706 
+    at 1.00       0.2429 
+Average precision (non-interpolated) over all rel docs
+                  0.6126 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.8000
+  At   15 docs:   0.6000
+  At   20 docs:   0.5000
+  At   30 docs:   0.4667
+  At  100 docs:   0.1700
+  At  200 docs:   0.0850
+  At  500 docs:   0.0340
+  At 1000 docs:   0.0170
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.5882
+
+Queryid (Num):       442  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        94
+    Rel_ret:         18
+Interpolated Recall - Precision Averages:
+    at 0.00       0.0800 
+    at 0.10       0.0276 
+    at 0.20       0.0000 
+    at 0.30       0.0000 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0075 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0000
+  At   20 docs:   0.0500
+  At   30 docs:   0.0667
+  At  100 docs:   0.0400
+  At  200 docs:   0.0400
+  At  500 docs:   0.0240
+  At 1000 docs:   0.0180
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0426
+
+Queryid (Num):       443  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       102
+    Rel_ret:         59
+Interpolated Recall - Precision Averages:
+    at 0.00       0.2632 
+    at 0.10       0.1275 
+    at 0.20       0.0786 
+    at 0.30       0.0680 
+    at 0.40       0.0680 
+    at 0.50       0.0643 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0552 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.2000
+  At   15 docs:   0.1333
+  At   20 docs:   0.1500
+  At   30 docs:   0.2000
+  At  100 docs:   0.1100
+  At  200 docs:   0.0950
+  At  500 docs:   0.0560
+  At 1000 docs:   0.0590
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.1275
+
+Queryid (Num):       444  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        17
+    Rel_ret:         16
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       1.0000 
+    at 0.30       1.0000 
+    at 0.40       1.0000 
+    at 0.50       0.3103 
+    at 0.60       0.2340 
+    at 0.70       0.2090 
+    at 0.80       0.2090 
+    at 0.90       0.1026 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.5478 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   0.7000
+  At   15 docs:   0.5333
+  At   20 docs:   0.4000
+  At   30 docs:   0.3000
+  At  100 docs:   0.1500
+  At  200 docs:   0.0800
+  At  500 docs:   0.0320
+  At 1000 docs:   0.0160
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4706
+
+Queryid (Num):       445  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        62
+    Rel_ret:         49
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       0.6842 
+    at 0.30       0.4565 
+    at 0.40       0.3623 
+    at 0.50       0.2773 
+    at 0.60       0.1523 
+    at 0.70       0.1030 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.3531 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   0.9000
+  At   15 docs:   0.6667
+  At   20 docs:   0.6500
+  At   30 docs:   0.5333
+  At  100 docs:   0.3000
+  At  200 docs:   0.1750
+  At  500 docs:   0.0900
+  At 1000 docs:   0.0490
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.3710
+
+Queryid (Num):       446  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       162
+    Rel_ret:         16
+Interpolated Recall - Precision Averages:
+    at 0.00       0.0166 
+    at 0.10       0.0000 
+    at 0.20       0.0000 
+    at 0.30       0.0000 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0012 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0000
+  At   20 docs:   0.0000
+  At   30 docs:   0.0000
+  At  100 docs:   0.0000
+  At  200 docs:   0.0000
+  At  500 docs:   0.0080
+  At 1000 docs:   0.0160
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0000
+
+Queryid (Num):       447  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        16
+    Rel_ret:         16
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       1.0000 
+    at 0.20       0.6250 
+    at 0.30       0.6250 
+    at 0.40       0.4375 
+    at 0.50       0.4167 
+    at 0.60       0.4167 
+    at 0.70       0.4167 
+    at 0.80       0.4167 
+    at 0.90       0.4167 
+    at 1.00       0.2909 
+Average precision (non-interpolated) over all rel docs
+                  0.5262 
+Precision:
+  At    5 docs:   0.6000
+  At   10 docs:   0.6000
+  At   15 docs:   0.4000
+  At   20 docs:   0.3500
+  At   30 docs:   0.3667
+  At  100 docs:   0.1600
+  At  200 docs:   0.0800
+  At  500 docs:   0.0320
+  At 1000 docs:   0.0160
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4375
+
+Queryid (Num):       448  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        46
+    Rel_ret:         11
+Interpolated Recall - Precision Averages:
+    at 0.00       0.0370 
+    at 0.10       0.0152 
+    at 0.20       0.0131 
+    at 0.30       0.0000 
+    at 0.40       0.0000 
+    at 0.50       0.0000 
+    at 0.60       0.0000 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0035 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0000
+  At   20 docs:   0.0000
+  At   30 docs:   0.0333
+  At  100 docs:   0.0100
+  At  200 docs:   0.0100
+  At  500 docs:   0.0120
+  At 1000 docs:   0.0110
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0217
+
+Queryid (Num):       449  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:        67
+    Rel_ret:         46
+Interpolated Recall - Precision Averages:
+    at 0.00       0.1000 
+    at 0.10       0.1000 
+    at 0.20       0.1000 
+    at 0.30       0.0857 
+    at 0.40       0.0732 
+    at 0.50       0.0638 
+    at 0.60       0.0518 
+    at 0.70       0.0000 
+    at 0.80       0.0000 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.0474 
+Precision:
+  At    5 docs:   0.0000
+  At   10 docs:   0.0000
+  At   15 docs:   0.0000
+  At   20 docs:   0.0000
+  At   30 docs:   0.0000
+  At  100 docs:   0.0800
+  At  200 docs:   0.0800
+  At  500 docs:   0.0640
+  At 1000 docs:   0.0460
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0896
+
+Queryid (Num):       450  weaver2
+Total number of documents over all queries
+    Retrieved:     1000
+    Relevant:       293
+    Rel_ret:        244
+Interpolated Recall - Precision Averages:
+    at 0.00       1.0000 
+    at 0.10       0.8125 
+    at 0.20       0.7692 
+    at 0.30       0.6403 
+    at 0.40       0.5395 
+    at 0.50       0.4787 
+    at 0.60       0.4335 
+    at 0.70       0.3725 
+    at 0.80       0.2626 
+    at 0.90       0.0000 
+    at 1.00       0.0000 
+Average precision (non-interpolated) over all rel docs
+                  0.4743 
+Precision:
+  At    5 docs:   1.0000
+  At   10 docs:   0.9000
+  At   15 docs:   0.8667
+  At   20 docs:   0.9000
+  At   30 docs:   0.7667
+  At  100 docs:   0.7100
+  At  200 docs:   0.5600
+  At  500 docs:   0.3940
+  At 1000 docs:   0.2440
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.4881
+
+Queryid (Num):       all  weaver2
+Total number of documents over all queries
+    Retrieved:    50000
+    Relevant:      4728
+    Rel_ret:       2942
+Interpolated Recall - Precision Averages:
+    at 0.00       0.6426 
+    at 0.10       0.4673 
+    at 0.20       0.3671 
+    at 0.30       0.3179 
+    at 0.40       0.2804 
+    at 0.50       0.2363 
+    at 0.60       0.1887 
+    at 0.70       0.1574 
+    at 0.80       0.1157 
+    at 0.90       0.0753 
+    at 1.00       0.0355 
+Average precision (non-interpolated) over all rel docs
+                  0.2447 
+Precision:
+  At    5 docs:   0.4480
+  At   10 docs:   0.4120
+  At   15 docs:   0.3600
+  At   20 docs:   0.3370
+  At   30 docs:   0.3100
+  At  100 docs:   0.2134
+  At  200 docs:   0.1554
+  At  500 docs:   0.0940
+  At 1000 docs:   0.0588
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.2696
+
+Statistics computed over 59 automatic ad hoc runs that used the title and
+description sections of the topic statement (4 runs used description only).
+
+         #        Relevant Retr. @ 100      Relevant Retr @ 1000        Average Precision 
+Topic   Rel.      Best   Median  Worst      Best   Median  Worst      Best   Median  Worst
+-----   ----     ------  ------  ------    ------  ------  ------    ------  ------  ------
+401     300        24      4       0         102     39      0       0.0563  0.0063  0.0000  
+402     80         37      22      0         76      63      5       0.3740  0.1883  0.0004  
+403     21         21      20      0         21      21      0       0.9243  0.8028  0.0000  
+404     142        36      25      0         128     119     0       0.2885  0.1957  0.0000  
+405     38         27      14      0         36      23      0       0.3378  0.1256  0.0000  
+406     13         13      9       0         13      13      0       0.5633  0.3460  0.0000  
+407     68         43      28      1         67      47      3       0.5248  0.2785  0.0008  
+408     118        47      35      1         100     81      1       0.3026  0.2188  0.0001  
+409     22         16      10      0         22      20      0       0.2877  0.1591  0.0000  
+410     65         63      58      0         65      63      0       0.9111  0.8232  0.0000  
+411     27         15      11      0         23      18      0       0.3544  0.1834  0.0000  
+412     123        52      23      0         105     66      0       0.4829  0.1119  0.0000  
+413     69         34      16      0         61      50      0       0.4435  0.1267  0.0000  
+414     39         25      19      0         39      34      0       0.3448  0.2068  0.0000  
+415     136        79      51      0         136     108     0       0.7741  0.4140  0.0000  
+416     42         31      26      0         42      40      0       0.5047  0.2958  0.0000  
+417     75         36      18      0         67      47      1       0.3941  0.1543  0.0000  
+418     116        58      38      0         116     101     0       0.6514  0.3082  0.0000  
+419     16         12      5       0         14      10      0       0.4385  0.0939  0.0000  
+420     33         29      18      0         32      30      0       0.6014  0.3673  0.0000  
+421     83         25      8       0         57      45      0       0.1134  0.0463  0.0000  
+422     152        69      39      0         125     103     2       0.5346  0.2117  0.0001  
+423     21         20      16      0         21      20      2       0.7360  0.5709  0.0002  
+424     171        48      30      2         143     110     11      0.3075  0.1579  0.0031  
+425     162        70      52      0         150     132     1       0.5663  0.4063  0.0000  
+426     202        51      9       0         129     33      0       0.2652  0.0191  0.0000  
+427     50         32      20      0         46      38      0       0.3403  0.1988  0.0000  
+428     118        47      32      0         111     84      3       0.3345  0.1894  0.0002  
+429     11         11      10      0         11      11      1       0.5964  0.2655  0.0003  
+430     6          6       6       0         6       6       0       0.7419  0.5086  0.0000  
+431     130        64      46      0         130     90      0       0.5435  0.3007  0.0000  
+432     28         10      1       0         16      5       0       0.0629  0.0036  0.0000  
+433     13         6       3       0         11      4       0       0.1599  0.0229  0.0000  
+434     347        82      58      0         281     250     1       0.5153  0.3170  0.0001  
+435     117        37      20      1         101     59      2       0.2659  0.0920  0.0010  
+436     180        44      18      0         96      40      1       0.2293  0.0528  0.0001  
+437     72         15      6       0         56      33      0       0.1026  0.0265  0.0000  
+438     173        49      33      0         142     120     0       0.3422  0.1892  0.0000  
+439     219        46      8       0         128     53      0       0.1846  0.0194  0.0000  
+440     54         33      11      0         51      27      0       0.4513  0.0722  0.0000  
+441     17         17      15      0         17      17      0       0.7135  0.5513  0.0000  
+442     94         11      4       0         35      18      0       0.0458  0.0077  0.0000  
+443     102        38      16      0         81      61      1       0.3124  0.0912  0.0001  
+444     17         17      14      0         17      16      0       0.9297  0.5626  0.0000  
+445     62         30      17      0         60      39      0       0.3870  0.1951  0.0000  
+446     162        68      26      0         144     83      0       0.4906  0.1111  0.0000  
+447     16         16      8       0         16      15      0       0.9624  0.1770  0.0000  
+448     46         12      5       0         32      16      0       0.1075  0.0285  0.0000  
+449     67         17      13      0         55      42      2       0.1452  0.0978  0.0001  
+450     293        82      63      0         274     228     0       0.6469  0.4034  0.0000  
