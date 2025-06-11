@@ -3,11 +3,10 @@
 from pathlib import Path
 import collections
 
-root = Path('/Users/soboroff/trec/trec8-scores')
-pool_runs_desc = root / 'runs-list'
-full_qrels = root / 'trec8.qrels'
+pool_runs_desc = 'all-runs'
+full_qrels = 'trec8.qrels'
 
-runs_table = root / 'runs_table.adhoc'
+runs_table = 'runs_table.adhoc'
 
 topics = [str(x) for x in range(401, 451)]
 depth = 100
