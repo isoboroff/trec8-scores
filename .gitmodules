@@ -2,3 +2,6 @@
 	path = trec_eval
 	url = https://github.com/usnistgov/trec_eval
 	branch = version-10.0-rc2
+[submodule "testcoll-tools"]
+	path = testcoll-tools
+	url = https://github.com/isoboroff/testcoll-tools
