@@ -20,6 +20,9 @@ ap.add_argument('--runs_list',
 ap.add_argument('--pid_list',
                 help='List of pids allowed (None=all)',
                 default=None)
+ap.add_argument('-a', '--annotate',
+                help='Preserve run/group/score annotations (makes a qrels that doesn\'t work with trec_eval)',
+                action='store_true')
 ap.add_argument('pool',
                 help='Annotated pool file',
                 default='annots2')
@@ -51,8 +54,17 @@ with open(args.pool, 'r') as fp:
             continue
         if int(rank) > args.depth:
             continue
-        qrels[topic][docid] = rel
+        if (args.annotate):
+            if not qrels[topic][docid]:
+                qrels[topic][docid] = []
+            qrels[topic][docid].append(f'{run} {pid} {rank} {sim} {rel}')
+        else:
+            qrels[topic][docid] = rel
 
 for topic in sorted(qrels.keys()):
     for docid in sorted(qrels[topic].keys()):
-        print(topic, 0, docid, qrels[topic][docid])
+        if args.annotate:
+            for entry in qrels[topic][docid]:
+                print(topic, docid, entry)
+        else:
+            print(topic, 0, docid, qrels[topic][docid])
